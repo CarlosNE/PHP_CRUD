@@ -7,9 +7,8 @@ Para poder correr este repositorio, es necesario seguir estos pasos:
 2. Tener instalado XAMPP, o sino apache y mysql por separado.
 3. Tener un Editor de texto (vscode, atom, sublime text).
 4. Prender apache y mysql
-5. Ir a localhost/phpmyadmin y crear una nueva base de datos llamada php_crud.
-6. Ir a los usuarios y modificar el password de root a I9ClXZg8YLHv7F7c.
-7. Crear la tabla usuario con los campos: id, email y password.
+5. Ir a localhost/phpmyadmin y crear una nueva base de datos llamada *php_crud*.
+7. Crear la tabla *usuario* con los campos: *id*, *email* y *password*.
 8. Una vez hecho esto ya se podra acceder al sitio y empezar a crear y modificar usuarios.
 
 Proyecto sobre creación y modificación de usuarios.
