@@ -12,7 +12,7 @@ Me sirvió mucho para aprender php.
 
 Este proyecto lo hice localmente corriendo en XAMPP con MySQL.
 
-# Para poder correr este proyecto, es necesario 
+# Para poder correr este proyecto (EN LINUX), es necesario 
 
 ## Tener instalado
 1. XAMPP.
