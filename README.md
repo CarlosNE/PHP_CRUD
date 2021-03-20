@@ -12,14 +12,14 @@ Me sirvió mucho para aprender php.
 
 Este proyecto lo hice localmente corriendo en XAMPP con MySQL.
 
-Para poder correr este proyecto, es necesario 
+# Para poder correr este proyecto, es necesario 
 
-#Tener instalado
+## Tener instalado
 1. XAMPP.
 2. Editor de texto (vscode, atom, sublime text).
 
 
-#Seguir estos pasos
+## Seguir estos pasos
 1. Descargarse o clonar el repositorio.
 2. Guardarlo en la carpeta *htdocs*
 4. Prender apache y mysql
