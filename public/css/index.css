@@ -1,0 +1,44 @@
+.container{
+    display: grid;
+    grid-template-columns: 1fr;
+    background: #eaeaea;
+}
+
+.container h1{
+    text-align: center;
+    font-size: xx-large;
+}
+
+.main{
+    text-align: center;
+    border: 1px solid #cc1e4c;
+    width: min-content;
+    place-self: center;
+    border-radius: 10px;
+    padding-top: 15px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background: #d4d4d4;
+}
+
+#email > *, #password > *, #btn-login{
+    padding: 10px;
+    margin: 10px;
+}
+
+#btn-login{
+    background: white;
+    border-radius: 5px;
+    border-color: #cc1e4c;
+    padding-left: 30px;
+    padding-right: 30px;
+    cursor: pointer;
+    border-width: thin;
+}
+
+#btn-login:hover{
+    background: #cc1e4c;
+    border-color:  white;
+    color: white;
+}
