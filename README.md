@@ -25,4 +25,5 @@ Este proyecto lo hice localmente corriendo en XAMPP con MySQL.
 4. Prender apache y mysql
 5. Ir a localhost/phpmyadmin y crear una nueva base de datos llamada *php_crud*.
 6. Crear la tabla *usuario* con los campos: *id*, *email* y *password*.
-7. Una vez hecho esto ya se podra acceder a localhost/PHP_CRUD-main.
+7. ![image](https://user-images.githubusercontent.com/31457066/111873206-fcc2d680-896d-11eb-9204-7f9c134be2f1.png)
+8. Una vez hecho esto ya se podra acceder a localhost/PHP_CRUD-main.
