@@ -22,7 +22,6 @@ Este proyecto lo hice localmente corriendo en XAMPP con MySQL.
 ## Seguir estos pasos
 1. Descargarse o clonar el repositorio.
 2. Guardarlo en la carpeta *htdocs*.
-
 ![image](https://user-images.githubusercontent.com/31457066/111873266-41e70880-896e-11eb-984a-5748b5a8916f.png)
 3. Prender XAMPP.
 ![image](https://user-images.githubusercontent.com/31457066/111873242-2aa81b00-896e-11eb-8da9-ade8061b3cd8.png)
