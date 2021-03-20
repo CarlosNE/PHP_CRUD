@@ -20,7 +20,7 @@ class UsuarioModel
         $this->dbname="php_crud";
         //Data Source Name (DSN), contiene la informacion requerida para conectarse a la db.
         //$this->dsn = "$this->dbEngine:dbname=$this->dbname;host=$this->host";
-        $this->db = new PDO('mysql:host=localhost;'.'dbname=php_crud;charset=utf8','root','I9ClXZg8YLHv7F7c');
+        $this->db = new PDO('mysql:host=localhost;'.'dbname=php_crud;charset=utf8','root','');
     }
 
     function getUsuarios(): array
