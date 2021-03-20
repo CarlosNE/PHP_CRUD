@@ -1,19 +1,16 @@
 <?php
 require_once "../Model/UsuarioModel.php";
 require_once "../View/LoginView.php";
-require_once "UserController.php";
 class LogInController
 {
 
     private LoginView $view;
     private UsuarioModel $model;
-    private UserController $userController;
 
     public function __construct()
     {
         $this->view = new LoginView();
         $this->model = new UsuarioModel();
-        $this->userController = new UserController();
     }
 
     public function index()
